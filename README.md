@@ -8,6 +8,9 @@ Helpful Reminders of Keyboard Shortcuts
 | End of Line       | CMD + right arrow |
 
 #### Visual Studio 2013
+| Rule              | Shortcut          |
+| ----------------- |:-----------------:|
+| Indent Text       | SHIFT + Tab       |
 
 
 #### Linux
